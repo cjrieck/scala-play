@@ -1,3 +1,5 @@
+.ensime_cache/
+
 *.class
 *.log
 
