@@ -1,4 +1,5 @@
 .ensime_cache/
+.datadir/
 
 *.class
 *.log
